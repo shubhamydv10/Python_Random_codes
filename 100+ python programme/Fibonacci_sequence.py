@@ -3,7 +3,6 @@
 a = 0
 b = 1
 num = int(input("Enter a number to obtain fibonacci : "))
-
 if num == 1:
     print(a)
 else:
